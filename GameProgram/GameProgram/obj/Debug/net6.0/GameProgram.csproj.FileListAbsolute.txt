@@ -1,0 +1,14 @@
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\29-11-2023\GameProgram\GameProgram\bin\Debug\net6.0\GameProgram.exe
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\29-11-2023\GameProgram\GameProgram\bin\Debug\net6.0\GameProgram.deps.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\29-11-2023\GameProgram\GameProgram\bin\Debug\net6.0\GameProgram.runtimeconfig.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\29-11-2023\GameProgram\GameProgram\bin\Debug\net6.0\GameProgram.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\29-11-2023\GameProgram\GameProgram\bin\Debug\net6.0\GameProgram.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\29-11-2023\GameProgram\GameProgram\obj\Debug\net6.0\GameProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\29-11-2023\GameProgram\GameProgram\obj\Debug\net6.0\GameProgram.AssemblyInfoInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\29-11-2023\GameProgram\GameProgram\obj\Debug\net6.0\GameProgram.AssemblyInfo.cs
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\29-11-2023\GameProgram\GameProgram\obj\Debug\net6.0\GameProgram.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\29-11-2023\GameProgram\GameProgram\obj\Debug\net6.0\GameProgram.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\29-11-2023\GameProgram\GameProgram\obj\Debug\net6.0\refint\GameProgram.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\29-11-2023\GameProgram\GameProgram\obj\Debug\net6.0\GameProgram.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\29-11-2023\GameProgram\GameProgram\obj\Debug\net6.0\GameProgram.genruntimeconfig.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\29-11-2023\GameProgram\GameProgram\obj\Debug\net6.0\ref\GameProgram.dll
